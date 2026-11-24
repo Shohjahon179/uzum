@@ -1,0 +1,8 @@
+{
+  "appId": "uz.marketday.app",
+  "appName": "MarketDay",
+  "webDir": "www",
+  "android": {
+    "backgroundColor": "#6d28d9"
+  }
+}
